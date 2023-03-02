@@ -9,4 +9,4 @@ git config --global user.email facamesi52@gmail.com
 git init (crear repositorio)
 git add . 
 git commit -m "Version Inicial"
-
+git commit -m "Agrega solucion primer ejercicio"
